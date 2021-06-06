@@ -1,0 +1,39 @@
+
+.header{
+  display: flex;
+}
+
+.nav-bar {
+ margin-left: 750px;
+}
+
+.logo {
+    margin-left: 50px;
+}
+
+ nav ul li{
+  display: inline-block; 
+  padding:30px;
+  font-size:20px; 
+  font-family:raleway;
+}
+
+.login-class {
+  box-shadow: 0px 0px 20px #00000033;
+  border: 2px solid #663399;
+  border-radius: 24px;
+  opacity: 1;
+  width: 118px;
+  height: 45px;
+  color:#663399;
+}
+
+.getStarted-class {
+  background: transparent linear-gradient(90deg, #9F62C9 0%, #663399 100%) 0% 0% no-repeat padding-box;
+  box-shadow: 0px 0px 20px #00000033;
+  border-radius: 24px;
+  opacity: 1;
+  width: 166px;
+  height: 45px;
+  color: white;
+}
